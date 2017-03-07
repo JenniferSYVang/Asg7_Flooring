@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Asg7_Flooring</string>
+    <string name="show_result">Show Result</string>
+    <string name="_0_0">0.0</string>
+    <string name="_0_0_length">0.0</string>
+    <string name="room_length">Room Length:</string>
+    <string name="room_width">Room Width:</string>
+    <string name="flooring_needed">Flooring Needed:</string>
+    <string name="length">Length =</string>
+    <string name="width">Width =</string>
+</resources>
